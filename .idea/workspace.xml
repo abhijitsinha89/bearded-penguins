@@ -2,66 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0b8903-5e1d-49b8-9d0c-300f4f395099" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\app\config.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\benchmarks\benchmark.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\block.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\change.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\diff.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\hunk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\actor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\binary_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\blame.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\blame_line.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\blob.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\commit.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\commit_stats.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\config.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\diff.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\file_index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\file_window.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\git.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\git_file_operations.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\git_index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\git_object.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\head.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\directory_entry.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\git_blob.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\git_commit.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\git_tag.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\git_tree.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\loose_storage.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\merge.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\pack_storage.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\raw_object.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\ref.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\remote.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\repo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\repository.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\status.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\status_file.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\sub_module.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\tag.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\tree.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\user_info.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\sprintf\sprintf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\zlib\zlib.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\mime.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\types\mime.types" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\types\node.types" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\package.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.js" afterPath="$PROJECT_DIR$/app/about/about.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config.route.js" afterPath="$PROJECT_DIR$/app/config.route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/layout/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/layout/menu.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/home.html" afterPath="$PROJECT_DIR$/app/home/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/home.js" afterPath="$PROJECT_DIR$/app/home/home.js" />
@@ -89,10 +33,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/app.js">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+            <state line="9" column="46" selection-start="159" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
@@ -101,34 +45,61 @@
       <file leaf-file-name="config.route.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config.route.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="1" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="1309">
+            <state line="20" column="19" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1309">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/about/about.js">
+      <file leaf-file-name="menu.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/layout/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="60" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="3" column="47" selection-start="172" selection-end="172" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="menu.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/layout/menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="24" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/home/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/home/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="52" selection-start="112" selection-end="112" vertical-scroll-proportion="0.1775457" vertical-offset="0" max-vertical-offset="383">
+            <state line="4" column="24" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="6" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="47" selection-start="2505" selection-end="2505" vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1445">
+            <state line="90" column="0" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.79588336" vertical-offset="1066" max-vertical-offset="1649">
               <folding />
             </state>
           </provider>
@@ -137,7 +108,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+            <state line="6" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
               <folding />
             </state>
           </provider>
@@ -168,10 +139,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/config.js" />
-        <option value="$PROJECT_DIR$/functions.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/layout/menu.js" />
         <option value="$PROJECT_DIR$/app/config.route.js" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/app/layout/menu.html" />
+        <option value="$PROJECT_DIR$/app/home/home.html" />
+        <option value="$PROJECT_DIR$/app/home/home.js" />
       </list>
     </option>
   </component>
@@ -188,7 +165,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -207,6 +184,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,7 +233,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,18 +240,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.searchVisible" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -283,6 +253,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -326,14 +304,17 @@
       <created>1422691088706</created>
       <updated>1422691088706</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Working commit">
+      <created>1422700504975</created>
+      <updated>1422700504975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12972085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -348,10 +329,31 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12972085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840723" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.6715928" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -370,30 +372,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config.route.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="73" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.0" vertical-offset="805" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="76" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="323">
-          <folding />
-        </state>
+        <state line="6" column="20" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config.route.js">
@@ -410,44 +389,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="47" selection-start="2505" selection-end="2505" vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1445">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+        <state line="12" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pure-min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="60" selection-start="120" selection-end="120" vertical-scroll-proportion="0.1878453" vertical-offset="0" max-vertical-offset="362" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config.route.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="1" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="1309">
+        <state line="20" column="19" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1309">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/about.js">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="60" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state line="6" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="46" selection-start="159" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="47" selection-start="172" selection-end="172" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/home/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="112" selection-end="112" vertical-scroll-proportion="0.1775457" vertical-offset="0" max-vertical-offset="383">
+        <state line="4" column="24" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="0" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.79588336" vertical-offset="1066" max-vertical-offset="1649">
           <folding />
         </state>
       </provider>

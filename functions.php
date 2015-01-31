@@ -29,11 +29,18 @@ function my_scripts() {
                     		array( 'angularjs', 'angularjs-route', 'angularjs-sanitize' )
          );
 
+         wp_enqueue_script(
+                         'my-scripts-contactus',
+                         get_stylesheet_directory_uri() . '/app/layout/menu.js',
+                         array( 'angularjs', 'angularjs-route', 'angularjs-sanitize' )
+                     );
+
     	wp_enqueue_script(
     		'my-scripts-home',
     		get_stylesheet_directory_uri() . '/app/home/home.js',
     		array( 'angularjs', 'angularjs-route', 'angularjs-sanitize' )
     	);
+
 
     	wp_enqueue_script(
         		'my-scripts-about',
@@ -77,4 +84,9 @@ function my_scripts() {
 
 add_action( 'wp_enqueue_scripts', 'my_scripts' );
 
-add_filter('show_admin_bar', '__return_false');
+function includeurl()
+{
+    return get_template_directory_uri().'/app/';
+}
+
+?>

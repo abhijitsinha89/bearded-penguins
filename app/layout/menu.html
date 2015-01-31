@@ -1,0 +1,8 @@
+<nav data-ng-controller="menu as vm">
+    <ul class="nav">
+        <li class="nav-animation" data-ng-class="vm.isCurrent(r)"
+            data-ng-repeat="r in vm.navRoutes">
+            <a href="{{r.url}}" data-ng-bind-html="r.config.settings.content"></a>
+        </li>
+    </ul>
+</nav>

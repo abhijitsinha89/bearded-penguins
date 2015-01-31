@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<html ng-app="app">
-<head>
-	<base href="/bearded/">
-	<title>Bearded penguins</title>
-	<?php wp_head(); ?>
-</head>
-<body>
-
-	<header>
-		<h1>
-			<a href="<?php echo site_url(); ?>">bearded penguins</a>
-		</h1>
-	</header>
+    <?php get_header(); ?>
+    <div data-ng-include='"<?php echo includeurl() ?>layout/menu.html"'></div>
 
 	<div ng-view></div>
+    <?php get_footer(); ?>
 
-	<footer>
-		&copy; <?php echo date( 'Y' ); ?>
-	</footer>
-
-</body>
-</html>
