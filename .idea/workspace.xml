@@ -2,10 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0b8903-5e1d-49b8-9d0c-300f4f395099" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\app\config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\benchmarks\benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\block.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\change.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\diff.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\diff\hunk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\actor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\binary_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\blame.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\blame_line.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\blob.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\commit.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\commit_stats.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\diff.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\file_index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\file_window.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\git.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\git_file_operations.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\git_index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\git_object.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\head.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\directory_entry.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\git_blob.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\git_commit.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\git_tag.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\internal\git_tree.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\loose_storage.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\merge.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\pack_storage.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\raw_object.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\ref.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\remote.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\repo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\repository.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\status.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\status_file.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\sub_module.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\tag.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\tree.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\git\user_info.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\sprintf\sprintf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\lib\zlib\zlib.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\mime.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\test.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\types\mime.types" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\node_modules\mime\types\node.types" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\bearded\wp-content\themes\bearded-penguins\node_modules\git\package.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.js" afterPath="$PROJECT_DIR$/app/about/about.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config.js" afterPath="$PROJECT_DIR$/app/config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config.route.js" afterPath="$PROJECT_DIR$/app/config.route.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/home.html" afterPath="$PROJECT_DIR$/app/home/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/home.js" afterPath="$PROJECT_DIR$/app/home/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bearded-penguins.iws" />
@@ -32,7 +92,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="20" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="12" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
@@ -41,7 +101,25 @@
       <file leaf-file-name="config.route.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config.route.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="73" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.0" vertical-offset="805" max-vertical-offset="1309">
+            <state line="71" column="1" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="1309">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/about/about.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="60" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/home/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="52" selection-start="112" selection-end="112" vertical-scroll-proportion="0.1775457" vertical-offset="0" max-vertical-offset="383">
               <folding />
             </state>
           </provider>
@@ -50,16 +128,16 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="76" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.0" vertical-offset="958" max-vertical-offset="1462">
+            <state line="79" column="47" selection-start="2505" selection-end="2505" vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1445">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/config.js">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+            <state line="22" column="7" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -91,8 +169,9 @@
       <list>
         <option value="$PROJECT_DIR$/app/config.js" />
         <option value="$PROJECT_DIR$/functions.php" />
-        <option value="$PROJECT_DIR$/app/config.route.js" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/app/config.route.js" />
       </list>
     </option>
   </component>
@@ -128,7 +207,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,6 +255,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,12 +333,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12972085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12972085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.87027913" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.6715928" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -282,7 +361,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Updated Config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Config" />
+    <MESSAGE value="Working commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -290,7 +370,28 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+        <state line="6" column="20" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config.route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="73" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.0" vertical-offset="805" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="76" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="323">
           <folding />
         </state>
       </provider>
@@ -309,9 +410,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config.js">
+    <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+        <state line="79" column="47" selection-start="2505" selection-end="2505" vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="7" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config.route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="1" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="60" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="112" selection-end="112" vertical-scroll-proportion="0.1775457" vertical-offset="0" max-vertical-offset="383">
           <folding />
         </state>
       </provider>
