@@ -19,6 +19,7 @@ function getRoutes() {
     return [
         {
             url: '/',
+            urlPath:'',
             config: {
                 title: 'home',
                 templateUrl: myLocalized.partials + '/home/home.html'
@@ -26,6 +27,7 @@ function getRoutes() {
         },
         {
             url: '/about',
+            urlPath:'about',
             config: {
                 title: 'about',
                 templateUrl: myLocalized.partials + '/about/about.html',
@@ -37,6 +39,7 @@ function getRoutes() {
         },
         {
             url: '/contact',
+            urlPath:'contact',
             config: {
                 templateUrl: myLocalized.partials + '/contactus/contactus.html',
                 title: 'contact',
