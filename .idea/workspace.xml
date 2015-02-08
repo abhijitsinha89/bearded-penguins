@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0b8903-5e1d-49b8-9d0c-300f4f395099" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/articles/articles.html" afterPath="$PROJECT_DIR$/app/articles/articles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/articles/articles.js" afterPath="$PROJECT_DIR$/app/articles/articles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/categories/categories.html" afterPath="$PROJECT_DIR$/app/categories/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/categories/categories.js" afterPath="$PROJECT_DIR$/app/categories/categories.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config.route.js" afterPath="$PROJECT_DIR$/app/config.route.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bearded-penguins.iws" />
@@ -364,7 +358,11 @@
       <created>1423365261546</created>
       <updated>1423365261546</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added code for articles and categories.">
+      <created>1423370411907</created>
+      <updated>1423370411907</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -422,7 +420,8 @@
     <MESSAGE value="Working commit" />
     <MESSAGE value="Updated controllers, and home html" />
     <MESSAGE value="Added Categories to the menu route." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Categories to the menu route." />
+    <MESSAGE value="Added code for articles and categories." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code for articles and categories." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
