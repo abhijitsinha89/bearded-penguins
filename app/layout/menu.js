@@ -1,14 +1,15 @@
     var controllerId = 'menu';
     angular.module('app').controller(controllerId,
-        ['$route', 'routes', menu]);
+        ['$route','$http', 'routes', menu]);
 
-    function menu($route, routes) {
+    function menu($route, $http, routes) {
         var vm = this;
         vm.isCurrent = isCurrent;
         vm.openmenu = false;
         activate();
         function activate() {
             getNavRoutes();
+            getCategoriesData();
         }
         function getNavRoutes() {
             vm.navRoutes = routes.filter(function (r) {
@@ -25,4 +26,11 @@
             var menuName = route.config.title;
             return $route.current.title.substr(0, menuName.length) === menuName ? 'current' : '';
         }
+
+        function getCategoriesData() {
+            $http.get('wp-json/taxonomies/category/terms').success(function(data){
+                vm.categories = data;
+            });
+        }
     };
+
