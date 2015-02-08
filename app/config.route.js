@@ -66,8 +66,8 @@ function getRoutes() {
         {
             url: '/categories/:category',
             config: {
-                templateUrl: myLocalized.partials + 'app/categories/categories.html',
-                title: 'work'
+                templateUrl: myLocalized.partials + '/categories/categories.html',
+                title: 'categories'
             }
         }
 

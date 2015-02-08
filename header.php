@@ -7,7 +7,7 @@
 </head>
 	<header>
 		<h1>
-			<a href="<?php echo site_url(); ?>">bearded penguins 1</a>
+			<a href="<?php echo site_url(); ?>">Bearded Penguins</a>
 		</h1>
 	</header>
 <body>

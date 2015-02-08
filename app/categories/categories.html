@@ -1,0 +1,9 @@
+<section data-ng-controller="Categories as vm">
+    <h3>Category POSTS : {{vm.categoryName}}</h3>
+    <ul>
+        <li data-ng-repeat="post in vm.categoryPosts">
+            <a href="articles/{{post.slug}}" ng-bind-html="post.title"></a>
+            <div data-ng-bind-html="post.excerpt"></div>
+        </li>
+    </ul>
+</section>
