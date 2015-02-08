@@ -1,8 +1,9 @@
 <section data-ng-controller="Home as vm">
+    <h3>POSTS</h3>
     <ul>
-        <li ng-repeat="post in vm.posts">
+        <li data-ng-repeat="post in vm.posts">
             <a href="articles/{{post.slug}}" ng-bind-html="post.title"></a>
-            <div ng-bind-html="post.excerpt"></div>
+            <div data-ng-bind-html="post.excerpt"></div>
         </li>
     </ul>
 </section>

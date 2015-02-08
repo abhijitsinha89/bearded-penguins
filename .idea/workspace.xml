@@ -4,7 +4,6 @@
     <list default="true" id="6a0b8903-5e1d-49b8-9d0c-300f4f395099" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/home.html" afterPath="$PROJECT_DIR$/app/home/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/layout/menu.html" afterPath="$PROJECT_DIR$/app/layout/menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/layout/menu.js" afterPath="$PROJECT_DIR$/app/layout/menu.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bearded-penguins.iws" />
@@ -49,16 +48,16 @@
       <file leaf-file-name="menu.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/layout/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="42" selection-start="387" selection-end="387" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="340">
+            <state line="1" column="12" selection-start="50" selection-end="50" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="menu.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/layout/menu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="227" selection-end="227" vertical-scroll-proportion="0.17495711" vertical-offset="0" max-vertical-offset="714">
+            <state line="6" column="33" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -82,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="44" selection-end="244" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="221">
+            <state line="8" column="10" selection-start="284" selection-end="284" vertical-scroll-proportion="0.3809524" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -135,9 +134,9 @@
         <option value="$PROJECT_DIR$/app/home/home.js" />
         <option value="$PROJECT_DIR$/app/about/about.html" />
         <option value="$PROJECT_DIR$/app/config.route.js" />
-        <option value="$PROJECT_DIR$/app/home/home.html" />
-        <option value="$PROJECT_DIR$/app/layout/menu.html" />
         <option value="$PROJECT_DIR$/app/layout/menu.js" />
+        <option value="$PROJECT_DIR$/app/layout/menu.html" />
+        <option value="$PROJECT_DIR$/app/home/home.html" />
       </list>
     </option>
   </component>
@@ -382,14 +381,18 @@
       <created>1423322537829</created>
       <updated>1423322537829</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Categories to the menu route.">
+      <created>1423364700857</created>
+      <updated>1423364700857</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12972085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -439,7 +442,8 @@
     <MESSAGE value="Updated Config" />
     <MESSAGE value="Working commit" />
     <MESSAGE value="Updated controllers, and home html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated controllers, and home html" />
+    <MESSAGE value="Added Categories to the menu route." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Categories to the menu route." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -513,9 +517,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/home.html">
+    <entry file="file://$PROJECT_DIR$/app/layout/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="44" selection-end="244" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="221">
+        <state line="6" column="33" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <folding />
         </state>
       </provider>
@@ -529,14 +533,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/layout/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="387" selection-end="387" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="340">
+        <state line="1" column="12" selection-start="50" selection-end="50" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout/menu.js">
+    <entry file="file://$PROJECT_DIR$/app/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="227" selection-end="227" vertical-scroll-proportion="0.17495711" vertical-offset="0" max-vertical-offset="714">
+        <state line="8" column="10" selection-start="284" selection-end="284" vertical-scroll-proportion="0.3809524" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
