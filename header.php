@@ -3,6 +3,7 @@
 <head>
 	<base href="/bearded/">
 	<title>Bearded penguins</title>
+	 <link href="<?php bloginfo('stylesheet_url');?>" rel="stylesheet">
 	<?php wp_head(); ?>
 </head>
 	<header>
