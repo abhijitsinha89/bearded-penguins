@@ -8,7 +8,6 @@ function routeConfigurator($routeProvider,$locationProvider, routes) {
     routes.forEach(function (r) {
         $routeProvider.when(r.url, r.config);
         $locationProvider.html5Mode(true).hashPrefix('!');
-
     });
     $routeProvider.otherwise({ redirectTo: '/' });
 
@@ -50,16 +49,16 @@ function getRoutes() {
             }
         },
         {
-            url: '/articles/:article',
-            config: {
-                templateUrl: myLocalized.partials + '/articles/articles.html',
-                title: 'article'
-            }
-        },
-        {
             url: '/authors/:author',
             config: {
                 templateUrl: myLocalized.partials + '/authors/authors.html',
+                title: 'author'
+            }
+        },
+        {
+            url: '/articles/:article',
+            config: {
+                templateUrl: myLocalized.partials + '/articles/articles.html',
                 title: 'article'
             }
         },

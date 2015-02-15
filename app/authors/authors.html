@@ -1,0 +1,9 @@
+<section data-ng-controller="Authors as vm">
+    <h3>Author POSTS : {{vm.authorName}}</h3>
+    <ul>
+        <li data-ng-repeat="post in vm.authorPosts">
+            <a href="articles/{{post.slug}}" ng-bind-html="post.title"></a>
+            <div data-ng-bind-html="post.excerpt"></div>
+        </li>
+    </ul>
+</section>
